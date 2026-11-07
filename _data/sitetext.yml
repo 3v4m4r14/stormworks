@@ -277,7 +277,7 @@ ee: &DEFAULT_EE
 #    submit: "Saada sõnum"
 
   footer:
-    legal: "Privacy Policy"
+#   legal: "Privacy Policy"
     social:
       - url: https://www.facebook.com/profile.php?id=61559687052792
         icon: "fab fa-facebook-f"
