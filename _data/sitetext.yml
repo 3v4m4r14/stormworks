@@ -183,16 +183,16 @@ ee: &DEFAULT_EE
     list:
       - title: "Hooldus"
         desc: "Nahkesemete süvapuhastus ja professionaalne hooldamine. Teostame pehmendamist ja vahatamist naha kaitseks."
-        icon: fas fa-soap #find more at https://fontawesome.com/icons
+        icon: fa-soap #find more at https://fontawesome.com/icons
       - title: "Taastamine"
         desc: "Eemaldame kulumisjäljed ja pleekinud kohad, kasutades tipptasemel tehnoloogiat loomutruu tulemuse saavutamiseks."
-        icon: fas fa-fill-drip
+        icon: fa-fill-drip
       - title: "Parandus"
         desc: "Keerukad parandustööd rebenenud kohtadest kuni lukkude ja takjapaelte vahetuseni."
-        icon: fab fa-bandage
+        icon: fa-bandage
       - title: "Õmblus- ja sadulsepatööd"
         desc: "Nahkmööblist autoistmeteni, lukkude vahetus ja õmblus-parandustööd."
-        icon: fab fa-scissors
+        icon: fa-scissors
 
   portfolio:
     title: "Tehtud tööd"
