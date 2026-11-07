@@ -264,17 +264,17 @@ ee: &DEFAULT_EE
   contact:
     title: "Võta ühendust"
     text: "+372 5666 0755<br>info@stormworks.ee"
-    section: contact
-    name: "Nimi*"
-    name-validation: "Palun sisestage oma nimi."
-    email: "E-post*"
-    email-validation: "Palun sisestage oma e-posti aadress."
-    phone: "Telefoninumber"
-    phone-validation: "Palun sisestage oma telefoninumber."
-    message: "Sõnum*"
-    message-validation: "Palun sisestage oma sõnum."
-    subject: "Päring veebilehelt"
-    submit: "Saada sõnum"
+#    section: contact
+#    name: "Nimi*"
+#    name-validation: "Palun sisestage oma nimi."
+#    email: "E-post*"
+#    email-validation: "Palun sisestage oma e-posti aadress."
+#    phone: "Telefoninumber"
+#    phone-validation: "Palun sisestage oma telefoninumber."
+#    message: "Sõnum*"
+#    message-validation: "Palun sisestage oma sõnum."
+#    subject: "Päring veebilehelt"
+#    submit: "Saada sõnum"
 
   footer:
     legal: "Privacy Policy"
