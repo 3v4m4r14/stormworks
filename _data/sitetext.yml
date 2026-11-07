@@ -166,6 +166,125 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+
+# Eesti
+# -----------------
+ee: &DEFAULT_EE
+  header:
+    title: Tormi Nahatööd
+    text: Anname nahale uue elu
+    button: Saada päring
+    buttonlink: "#contact"
+
+  services:
+    title: "Teenused"
+    text: "Võta julgelt ühendust ka siis, kui Sinu soovitud teenus pole allpool välja toodud. Meie spetsialistid aitavad leida parima lahenduse."
+    section: services
+    list:
+      - title: "Hooldus"
+        desc: "Nahkesemete süvapuhastus ja professionaalne hooldamine. Teostame pehmendamist ja vahatamist naha kaitseks."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Taastamine"
+        desc: "Eemaldame kulumisjäljed ja pleekinud kohad, kasutades tipptasemel tehnoloogiat loomutruu tulemuse saavutamiseks."
+        icon: fas fa-laptop
+      - title: "Parandus"
+        desc: "Keerukad parandustööd rebenenud kohtadest kuni lukkude ja takjapaelte vahetuseni."
+        icon: fab fa-markdown
+      - title: "Õmblus- ja sadulsepatööd"
+        desc: "Nahkmööblist autoistmeteni, lukkude vahetus ja õmblus-parandustööd."
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Tehtud tööd"
+    text: "Iga töö on unikaalne ja nõuab individuaalset lähenemist. Meie spetsialistid teevad kõik endast oleneva, et saavutada parim tulemus."
+    section: portfolio
+    closebutton: "Sulge"
+
+  about:
+    title: "Meist"
+    text: "Tormi Nahatööde südameks on meister Kadri Torm."
+    body: "Minu töökoda on koht, kus sündis kirg naha kui materjali vastu. Ma usun, et igal nahast esemel on oma lugu ja hing, mida tasub hoida."
+    section: about
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+  contact:
+    title: "Võta ühendust"
+    text: "Tel. +372 5666 0755<br> E-post: info@stormworks.ee"
+    section: contact
+    name: "Nimi*"
+    name-validation: "Palun sisestage oma nimi."
+    email: "E-post*"
+    email-validation: "Palun sisestage oma e-posti aadress."
+    phone: "Telefoninumber"
+    phone-validation: "Palun sisestage oma telefoninumber."
+    message: "Sõnum*"
+    message-validation: "Palun sisestage oma sõnum."
+    subject: "Päring veebilehelt"
+    submit: "Saada sõnum"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.facebook.com/profile.php?id=61559687052792
+        icon: "fab fa-facebook-f"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+
+
 # Spanish
 # -------
 es: &DEFAULT_ES
