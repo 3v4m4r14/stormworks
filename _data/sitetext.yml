@@ -196,7 +196,7 @@ ee: &DEFAULT_EE
 
   portfolio:
     title: "Tehtud tööd"
-    text: "Iga töö on unikaalne ja nõuab individuaalset lähenemist. Meie spetsialistid teevad kõik endast oleneva, et saavutada parim tulemus."
+    text: "Iga töö on unikaalne ja nõuab individuaalset lähenemist."
     section: portfolio
     closebutton: "Sulge"
 
