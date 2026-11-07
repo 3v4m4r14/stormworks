@@ -48,25 +48,3 @@ ee: &DEFAULT_EE
       section: meeskond
     - title: "Kontakt"
       section: Kontakt
-
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
