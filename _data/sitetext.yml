@@ -183,16 +183,16 @@ ee: &DEFAULT_EE
     list:
       - title: "Hooldus"
         desc: "Nahkesemete süvapuhastus ja professionaalne hooldamine. Teostame pehmendamist ja vahatamist naha kaitseks."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-soap #find more at https://fontawesome.com/icons
       - title: "Taastamine"
         desc: "Eemaldame kulumisjäljed ja pleekinud kohad, kasutades tipptasemel tehnoloogiat loomutruu tulemuse saavutamiseks."
-        icon: fas fa-laptop
+        icon: fas fa-fill-drip
       - title: "Parandus"
         desc: "Keerukad parandustööd rebenenud kohtadest kuni lukkude ja takjapaelte vahetuseni."
-        icon: fab fa-markdown
+        icon: fab fa-bandage
       - title: "Õmblus- ja sadulsepatööd"
         desc: "Nahkmööblist autoistmeteni, lukkude vahetus ja õmblus-parandustööd."
-        icon: fab fa-markdown
+        icon: fab fa-scissors
 
   portfolio:
     title: "Tehtud tööd"
@@ -263,7 +263,7 @@ ee: &DEFAULT_EE
 
   contact:
     title: "Võta ühendust"
-    text: "Tel. +372 5666 0755<br> E-post: info@stormworks.ee"
+    text: "+372 5666 0755<br>info@stormworks.ee"
     section: contact
     name: "Nimi*"
     name-validation: "Palun sisestage oma nimi."
