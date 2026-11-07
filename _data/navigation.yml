@@ -37,14 +37,14 @@ en-AU:
 ee: &DEFAULT_EE
   nav:
     - title: "Teenused"
-      section: teenused
+      section: services
     - title: "Tehtud tööd"
-      section: portfoolio
+      section: portfolio
     - title: "Meist"
-      section: meist
+      section: about
     - title: "Ajajoon"
-      section: ajajoon
+      section: timeline
     - title: "Meeskond"
-      section: meeskond
+      section: team
     - title: "Kontakt"
-      section: Kontakt
+      section: contact
